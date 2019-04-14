@@ -14,7 +14,7 @@
 	* [Pip install with requirements.txt](#part2.install)
 	* [Pip freeze to output requirements.txt](#part2.pipfreeze)
 3. [Create & share a new environment with yaml](#part3)
-	* [Generate yaml file from part2] (#part3.yml)
+	* [Generate yaml file from part2](#part3.yml)
 	* [Create New conda environment from yaml file](#part3.clone)
 	* [Tidying up](#part3.tidy)
 
