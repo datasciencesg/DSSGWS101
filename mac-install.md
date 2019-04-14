@@ -1,6 +1,6 @@
 # Installing Miniconda3 on Mac
 
-This guide will mainly be focusing on using the terminal for installation.
+This guide will mainly be focusing on using the terminal for installation. Note that the integration of git with your device will be beyond the scope of this workshop. You may ignore `git:(master)` at the front of the working directory.
 
 ## Download installer
 
