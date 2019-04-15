@@ -2,11 +2,11 @@
 
 Follow these instructions to install Miniconda3 on Windows 10.
 
-## Download installer
+## Download the installer
 
 Go to the following page: [https://conda.io/en/latest/miniconda.html](https://conda.io/en/latest/miniconda.html)
 
-Download the 64-bit (exe installer) for Windows with Python 3.7. 
+Download the `64-bit (exe installer)` for `Windows` with `Python 3.7`. 
 This assumes that you are running 64-bit version of Windows, which should usually be the case.
 We are using Python 3 because this is 2019. 
 Python 2 will not be maintained past 1st January 2020, please do not use it anymore.
@@ -92,7 +92,7 @@ There may be more entries in your `PATH` environment variable. Please **DO NOT**
 
 ![add path entries](media/windows-env-setup-03.png)
 
-## Check you installation
+## Check your installation
 
 Type `cmd` in the start menu and start `Command Prompt`. 
 You may also use the `Anaconda Prompt`.
