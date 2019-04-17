@@ -223,7 +223,7 @@ dependencies:
 
 Go through the entire file to understand how the file is being structured.
 
-<a name="#part3.clone"></a>
+<a name="part3.clone"></a>
 ### Create New Conda Environment 
 
 For more details on creating `conda environment manually`, check it out [here](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#create-env-file-manually).
@@ -260,7 +260,7 @@ output:
 ...
 ...
 ```
-<a name="#part3.tidy"></a>
+<a name="part3.tidy"></a>
 ### Tidying up
 
 ***
